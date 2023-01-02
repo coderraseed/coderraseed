@@ -1,5 +1,5 @@
 - 👋 Hi, I am Md Rasedul Islam, love to listen Rased. I am a hard worker. I have focused on high-quality code.
-- 👀 ***I AM A VERY FAST LEARNER***
+- 👀 ***I AM A FULL STACK WORDPRESS DEVELOPER***
 - 🌱 I’m currently learning PHP & LARAVEL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.upwork.com/freelancers/~018b875176948da7ed
