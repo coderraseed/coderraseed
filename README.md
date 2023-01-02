@@ -32,7 +32,7 @@ My Sevices
 =============================
 
 👉PSD TO HTML   👉PSD TO WordPress    👉HTML TO WordPress
-👉CUSTOM WP THEME DEVELOPMENT👉WP INSTALL IN CPANEL
+👉CUSTOM WP THEME DEVELOPMENT
 👉WP THEME Customization👉AVADA THEME Customization
 👉DIVI THEME Customization👉PAGE SPEED OPTIMIZATION👉CONTACT FORM 7
 👉GRAVITY FORM👉PopUp creation👉WordPress Landing/Squeeze page design
@@ -50,15 +50,12 @@ My Sevices
 Why You Choose Me
 =======================================
 👉HIGH SKILLED IN WEB DESIGN AND DEVELOPMENT
-👉WORK YOUR TIMELINE &amp;amp; PREFERRED TIME ZONE
 👉CLEAN CODE
 👉MOBILE FRIENDLY AND 100% RESPONSIVE SITE
 👉7/24 SUPPORT
-👉100% SATISFICTION GUARANTEE
 👉FAST COMMUNICATION
 👉FAST DELIVARY
 👉AFORDABLE PRICE
-👉UNLIMITED REVISION
 👉HIGHLY ORGANIZED SELF-MOTIVATED AND RESPONSIBLE.
 ==================================
 I believe that I have the
