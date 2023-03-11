@@ -1,4 +1,4 @@
-- 👋 Hi, I am Md Rasedul Islam, love to listen Rased. I am a hard worker. I have focused on high-quality code.
+<h1 align="center">Hi 👋, I'm Md Rasedul Islam</h1>
 - 👀 ***I AM A FULL STACK WORDPRESS DEVELOPER***
 - 🌱 I’m currently learning PHP & LARAVEL
 - 💞️ I’m looking to collaborate on ...
